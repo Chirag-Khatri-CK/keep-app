@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/keep-app/static/css/main.6de77b05.chunk.css",
+    "main.js": "/keep-app/static/js/main.9d661066.chunk.js",
+    "main.js.map": "/keep-app/static/js/main.9d661066.chunk.js.map",
+    "runtime-main.js": "/keep-app/static/js/runtime-main.5f4e3027.js",
+    "runtime-main.js.map": "/keep-app/static/js/runtime-main.5f4e3027.js.map",
+    "static/js/2.779eb9df.chunk.js": "/keep-app/static/js/2.779eb9df.chunk.js",
+    "static/js/2.779eb9df.chunk.js.map": "/keep-app/static/js/2.779eb9df.chunk.js.map",
+    "index.html": "/keep-app/index.html",
+    "static/css/main.6de77b05.chunk.css.map": "/keep-app/static/css/main.6de77b05.chunk.css.map",
+    "static/js/2.779eb9df.chunk.js.LICENSE.txt": "/keep-app/static/js/2.779eb9df.chunk.js.LICENSE.txt",
+    "static/media/logo.7c831644.png": "/keep-app/static/media/logo.7c831644.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f4e3027.js",
+    "static/js/2.779eb9df.chunk.js",
+    "static/css/main.6de77b05.chunk.css",
+    "static/js/main.9d661066.chunk.js"
+  ]
+}
